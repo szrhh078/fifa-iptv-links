@@ -14,13 +14,7 @@ https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
 #EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png" group-title="FIFA",GOLIVE - English
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kc3mP7Qt/cbimage.png" group-title="FIFA",DAZN FIFA
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kc3mP7Qt/cbimage.png" group-title="FIFA",DAZN 1
 http://znty.dyndns.org:5010/hls/eleven1.m3u8
-#EXTINF:-1 tvg-logo="https://kommodo.ai/i/Gkj5Ff8a8OnrcUEGrNFb" group-title="FIFA",SZtv
-https://live05.meung.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.sanishtech.com/u/33ae63d27a6120373e0df7e68dd85991.jpg" group-title="FIFA",KOORA LIVE
-https://we.smarop.store/spoos1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://kommodo.ai/i/8B7rHnqjzFWwS6Ms7Qzn" group-title="FIFA",M6 Dirrect
 http://cdn.haititivi.com/M6-HD/index.m3u8
 
